@@ -6,11 +6,11 @@ This is a repository that will contain all the checkpoints of the Deloitte 0212 
 
 2. Then clone your fork down to your local computer
 ```
-git clone https://github.com/[yourusername]/DS-Deloitte-0212.git
+git clone https://github.com/[yourusername]/DS-Deloitte-0212-Checkpoints.git
 ```
 3. Add the ```/flatiron-school/``` version as the upstream (to pull future changes)
 ```
-git remote add upstream https://github.com/flatiron-school/DS-Deloitte-0212.git
+git remote add upstream https://github.com/flatiron-school/DS-Deloitte-0212-Checkpoints.git
 ```
 4.You can make changes to the notebooks now! Remember to push your changes to your forked version of the repo (to put your local changes up online):
 ```
